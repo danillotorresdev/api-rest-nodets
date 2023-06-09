@@ -8,7 +8,7 @@
 # RN Regra de negócio
 
 - [x] A transacao pode ser do tipo debito que somara ao valor total, ou debito que subtraira;
-- [] Deve ser possivel identificarmos o usuario entre as requisicoes
-- [] O usuario só pode visualizar transacoes o qual ele criou
+- [x] Deve ser possivel identificarmos o usuario entre as requisicoes
+- [x] O usuario só pode visualizar transacoes o qual ele criou
 
 # RNF - Requisitos nao funcionais
